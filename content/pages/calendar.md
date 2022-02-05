@@ -4,24 +4,177 @@ title: Calendar
 uid: e5f8d858-4b0a-d16d-d3c4-5578f0301278
 ---
 
-| SES # | Topics |
-| --- | --- |
-| {{< td-colspan 2 >}}**Section 1: Biophysics of Membrane Ion Channels**{{< /td-colspan >}} ||
-| 1 | Introduction: Classical Description of Channels |
-| 2 | Channel Gating |
-| 3 | Single Channel |
-| 4 | Different Channels: Pharmacology |
-| {{< td-colspan 2 >}}**Section 2: Synaptic Transmission**{{< /td-colspan >}} ||
-| 5 | Synaptic Transmission: Introduction |
-| 6 | Presynaptic Mechanisms I |
-| 7 | Postsynaptic Mechanisms I |
-| 8 | Postsynaptic Mechanisms II |
-| 9 | Build an Artificial Dendrite and Study Current Flow from Dendrite to Soma |
-| {{< td-colspan 2 >}}**Section 3: Synaptic Plasticity**{{< /td-colspan >}} ||
-| 10 | Short Term Synaptic Plasticity |
-| 11 | Long Term Synaptic Plasticity |
-| 12 | Mechanism of Synaptic Plasticity |
-| {{< td-colspan 2 >}}**Section 4: Neural Properties and Formation of Functional Neural Networks**{{< /td-colspan >}} ||
-| 13 | Neural Properties and Formation of Functional Neural Networks I |
-| 14 | Neural Properties and Formation of Functional Neural Networks II |
-| 15 | Final Project
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Section 1: Biophysics of Membrane Ion Channels**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Classical Description of Channels
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Channel Gating
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Single Channel
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Different Channels: Pharmacology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Section 2: Synaptic Transmission**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Synaptic Transmission: Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Presynaptic Mechanisms I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Postsynaptic Mechanisms I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Postsynaptic Mechanisms II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Build an Artificial Dendrite and Study Current Flow from Dendrite to Soma
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Section 3: Synaptic Plasticity**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Short Term Synaptic Plasticity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Long Term Synaptic Plasticity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanism of Synaptic Plasticity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Section 4: Neural Properties and Formation of Functional Neural Networks**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Neural Properties and Formation of Functional Neural Networks I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Neural Properties and Formation of Functional Neural Networks II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
